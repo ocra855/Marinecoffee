@@ -1,0 +1,140 @@
+@charset "utf-8";
+
+@media (max-width:1024px){
+    /*タブレット用のCSS*/
+    .main-visual{
+    padding-top: 90px;
+    padding-bottom: 10px;
+    }
+    
+    .top-title{
+        margin-top: 20;
+        font-size: 50px;
+    }
+    .top-subtitle{
+    margin-top: 20px;
+    font-size: 25px
+    }
+
+    .top-ex{
+        margin: 50px 0 100px;
+        font-size: 20px;
+    }
+    
+    .main-osusume{
+        font-size: 25px;
+        padding-top: 10px;
+    }
+
+    .main-osusume-ex{
+        font-size: 20px;
+        
+    }
+    
+    
+    .menu-card{
+        width: 50%;
+    }
+    
+    .access-main{
+        margin: 70px 10px 10px;
+    }
+
+    .access-main h1{
+        font-size: 25px;
+        margin-bottom: 5px;
+        margin-left: 10px;
+    }
+
+    .access-main p{
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+
+
+}
+
+
+@media(max-width:670px){
+    /*スマホ用のCSS*/
+    .header-left{
+        display: none;
+    }
+    .header-right{
+        float:none;
+        text-align: center;
+    }
+    
+    .header-right a{
+        font-size: 14px;
+    }
+    
+    #main-footer{
+        margin-top: 700px;
+    }
+    .main{
+        padding: 60px 0;
+        
+    }
+        
+    .top-title{
+        margin-top: 0pxpx;
+        font-size: 40px;
+    }
+    .top-subtitle{
+    margin-top: 20px;
+    font-size: 25px
+    }
+
+    .top-ex{
+        margin: 40px 0 80px;
+        font-size: 19px;
+    }
+    
+    .main-osusume{
+        font-size: 30px;
+        padding: 3px;
+    }
+
+    .main-osusume-ex{
+        font-size: 20px;
+    }
+    
+    .menu-card{
+        width: 100%;
+    }
+        
+    .access-main{
+        margin: 70px 10px 10px;
+    }
+
+    .access-main h1{
+        font-size: 25px;
+        margin-bottom: 5px;
+        margin-left: 0;
+    }
+
+    .access-main p{
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+    
+    input, textarea{
+        width: 90%;
+    }
+
+    .submit-button{
+        width: 20%;
+    }
+    
+    .lemon-tea{
+        width: 90%;
+    }
+    .main-visual{
+        padding-top: 90px;
+    }
+    
+    
+}
+    
+

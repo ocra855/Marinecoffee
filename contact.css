@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+.contact{
+    padding: 90px 0 60px;
+    color:#555555;
+}
+
+.contact-title{
+    margin: 0 25px 10px;
+}
+
+.contact-form h3{
+    margin: 20px 0 3px 10px;
+    color: #444444;
+    
+}
+
+
+input, textarea{
+    font-size: 15px;
+    width: 350px;
+    padding: 3px 4px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px #ccc;
+    border: solid 1px;
+}
+
+.submit-button{
+    margin: 20px 0 0 0;
+    font-size: 17px;
+    width: 80px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px #ccc;
+    border: solid 1px;
+    
+}
+
+select{
+    font-size: 15px;
+    padding: 2px 4px;
+    border-radius: 7px;
+}
+
+#contact-footer{
+    margin-top: 0;
+}

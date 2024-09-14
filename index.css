@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+.main-visual{
+    padding-top: 80px;
+    padding-bottom: 60px;
+    background-image: url("images/main.png");
+    background-size: cover;
+    height: 350px;
+    color: cornsilk;
+    text-align: center;
+}
+
+.top-title{
+    margin-top: 0;
+    font-size: 65px
+}
+
+.top-subtitle{
+    margin-top: 60px;
+    font-size: 30px
+}
+
+.top-ex{
+    margin: 60px 0 100px;
+    font-size: 18px;
+}
+
+
+.main-osusume{
+    color: #565656;
+    padding-bottom: 20px;
+}
+.lemon-tea{
+    height: 300px;
+    border-radius: 10px;
+}
+.main-osusume-ex{
+    color:#222222;
+    padding-bottom: 100px;
+}
+
+
